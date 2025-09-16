@@ -1,2 +1,2 @@
 # FirstRepository
-Repositori de clase de programacio DAM
+Primer repositori de clase de programacio DAM
